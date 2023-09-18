@@ -1,0 +1,18 @@
+C:\Users\Perez.277243\source\repos\Basic Queuing\Basic Queuing\bin\Debug\net6.0-windows\Basic Queuing.exe
+C:\Users\Perez.277243\source\repos\Basic Queuing\Basic Queuing\bin\Debug\net6.0-windows\Basic Queuing.deps.json
+C:\Users\Perez.277243\source\repos\Basic Queuing\Basic Queuing\bin\Debug\net6.0-windows\Basic Queuing.runtimeconfig.json
+C:\Users\Perez.277243\source\repos\Basic Queuing\Basic Queuing\bin\Debug\net6.0-windows\Basic Queuing.dll
+C:\Users\Perez.277243\source\repos\Basic Queuing\Basic Queuing\bin\Debug\net6.0-windows\Basic Queuing.pdb
+C:\Users\Perez.277243\source\repos\Basic Queuing\Basic Queuing\obj\Debug\net6.0-windows\Basic Queuing.csproj.AssemblyReference.cache
+C:\Users\Perez.277243\source\repos\Basic Queuing\Basic Queuing\obj\Debug\net6.0-windows\Basic_Queuing.CashierWindowQueue.resources
+C:\Users\Perez.277243\source\repos\Basic Queuing\Basic Queuing\obj\Debug\net6.0-windows\Basic_Queuing.QueuingForm.resources
+C:\Users\Perez.277243\source\repos\Basic Queuing\Basic Queuing\obj\Debug\net6.0-windows\Basic Queuing.csproj.GenerateResource.cache
+C:\Users\Perez.277243\source\repos\Basic Queuing\Basic Queuing\obj\Debug\net6.0-windows\Basic Queuing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Perez.277243\source\repos\Basic Queuing\Basic Queuing\obj\Debug\net6.0-windows\Basic Queuing.AssemblyInfoInputs.cache
+C:\Users\Perez.277243\source\repos\Basic Queuing\Basic Queuing\obj\Debug\net6.0-windows\Basic Queuing.AssemblyInfo.cs
+C:\Users\Perez.277243\source\repos\Basic Queuing\Basic Queuing\obj\Debug\net6.0-windows\Basic Queuing.csproj.CoreCompileInputs.cache
+C:\Users\Perez.277243\source\repos\Basic Queuing\Basic Queuing\obj\Debug\net6.0-windows\Basic Queuing.dll
+C:\Users\Perez.277243\source\repos\Basic Queuing\Basic Queuing\obj\Debug\net6.0-windows\refint\Basic Queuing.dll
+C:\Users\Perez.277243\source\repos\Basic Queuing\Basic Queuing\obj\Debug\net6.0-windows\Basic Queuing.pdb
+C:\Users\Perez.277243\source\repos\Basic Queuing\Basic Queuing\obj\Debug\net6.0-windows\Basic Queuing.genruntimeconfig.cache
+C:\Users\Perez.277243\source\repos\Basic Queuing\Basic Queuing\obj\Debug\net6.0-windows\ref\Basic Queuing.dll
